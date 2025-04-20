@@ -1,6 +1,4 @@
-Here’s a simple README for your calculator project:
 
----
 
 # Calculator with Exception Handling
 
